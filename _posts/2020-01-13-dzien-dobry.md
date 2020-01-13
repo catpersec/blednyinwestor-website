@@ -2,7 +2,8 @@
 layout: post
 title: Dzień dobry!
 author: tomek_pers
-date: '2020-01-13 21:10:00'
+date: 2020-01-13T10:00:00.000Z
+intro_paragraph: ''
 categories: misc
 ---
 Cześć i czołem!
