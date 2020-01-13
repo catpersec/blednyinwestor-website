@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-author: dan_urbanowicz
-date: '2018-07-03 12:00:00'
-categories: misc
+title: Dzień dobry!
+author: tomek_pers
+date: '2020-01-13 21:10:00'
+categories: offtop	
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Cześć i czołem!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Tym postem chciałbym uroczyście rozpocząć blogową działalność w dziedzienie finansów!
+
+O mnie możesz przeczytać na podstronie: [O mnie](https://blednyinwestor.pl/), więc tu nie będę się "spuszczał", jak to sie mówi w pewnych bliskich mi kręgach. Im dłużej myślę o tej frazie, tym bardziej ją rozumiem... To tak swoją drogą haha.
+
+Nie jestem żadnym specjalistą, nigdy jakoś mocno nie interesowałem się dziedziną finansów. Blog ten ma być tylko i wyłącznie dziennikiem, historią, sposobem na pokazanie pewnej ewolucji (a może rewolucji - kto wie?) mojego rozwoju w tej dziedzinie.
+
+To tyle. Dzięki. Miłego wieczoru.
 
 Jekyll also offers powerful support for code snippets:
 
