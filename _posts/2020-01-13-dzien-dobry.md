@@ -15,7 +15,3 @@ O mnie możesz przeczytać na podstronie: [O mnie](https://blednyinwestor.pl/), 
 Nie jestem żadnym specjalistą, nigdy jakoś mocno nie interesowałem się dziedziną finansów. Blog ten ma być tylko i wyłącznie dziennikiem, historią, sposobem na pokazanie pewnej ewolucji (a może rewolucji - kto wie?) mojego rozwoju w tej dziedzinie.
 
 To tyle. Dzięki. Miłego wieczoru.
-
-edit.
-Zapomniałbym. Komentarzy na razie nie będzie. Jeśli ktoś chce się odezwać, to mail lub [Discord](https://discord.gg/dErvB9p) (utworzyłem chatroom na tę okazję).
-
