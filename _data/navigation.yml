@@ -2,8 +2,8 @@
 
 - text: Home
   url: /
-- text: O mnie
-  url: /about
+#- text: O mnie
+#  url: /about
 - text: Kontakt
   url: /contact
 - text: Blog
