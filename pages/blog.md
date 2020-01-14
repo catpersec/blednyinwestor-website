@@ -1,11 +1,8 @@
 ---
 layout: blog
-title: The Blog
+title: Blog
 permalink: /blog
 section: blog
 intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+  Tu znajdziesz listę wszystkich wpisów, które do tej pory pojawiły się na Błędnym Inwestorze... Za kilka lat pierwsze posty będą stanowiły szał haha. Dzięki za odwiedzenie i... Miłego wieczoru.
 ---
