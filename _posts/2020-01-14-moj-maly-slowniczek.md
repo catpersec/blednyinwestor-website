@@ -19,3 +19,6 @@ Zastrzegam, że pojęcia te będą czasami dokładnie takie same, jak te używan
 
 **Fundusz wolny** - główny obiekt zainteresowanie tego bloga. Są to wszystkie pieniądze, które w danym momencie zagospodarowałem jako pieniądze na inwestycje. Są to pieniądze jeszcze nie wprowadzone do obiegu.
 
+-- stan na 14.01
+
+To tyle na dziś, post będę rozwijał w ramach pisania innych postów. Dzięki za dziś. Miłego wieczoru.
