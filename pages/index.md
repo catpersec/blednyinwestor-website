@@ -4,9 +4,7 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Witam Cię na stronie Błędny Inwestor. Nie znajdziesz tu ani specjalistycznej wiedzy, ani fachowych porad! Zobaczysz za to jak ja podchodzę do tematu inwestowania, kiedy zdecydowałem się zacząć i jakie błędy popełniłem lub będę popełniał. Mam nadzieję, że będzie ich mniej niż prawidłowych decyzji!
+  
+  Niniejszy materiał ma ma być tylko i wyłącznie próbą uchwycenia moich doświadczeń z inwestowaniem i podzielenia się nimi ze światem. Materiały nie stanowią oferty, doradztwa inwestycyjnego ani rekomendacji kupna lub sprzedaży instrumentów finansowych.
 ---
