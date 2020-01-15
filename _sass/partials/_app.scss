@@ -92,9 +92,9 @@ header > nav {
 // our main content wrapper, the width scales with font size
 main {
   width: 100%;
-  /* max-width: 100rem;
-  margin-right: 2rem;
-  margin-left: 2rem;*/
+  max-width: 50000rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
   grid-column: main;
   display: grid;
   padding-top: 8rem;
