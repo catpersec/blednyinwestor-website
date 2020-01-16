@@ -12,7 +12,7 @@ body {
   grid-template-rows: auto 1fr auto;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 52rem) [main-end]
+    [main-start] minmax(0, 100%) [main-end]
     minmax(1rem, 1fr) [full-end];
 }
 
@@ -92,7 +92,7 @@ header > nav {
 // our main content wrapper, the width scales with font size
 main {
   width: 100%;
-  max-width: 50000rem;
+  max-width: 100%;
   margin-right: 1rem;
   margin-left: 1rem;
   grid-column: main;
@@ -173,7 +173,7 @@ footer {
   display: grid;
   grid-template-columns:
     [full-start] minmax(1rem, 1fr)
-    [main-start] minmax(0, 50rem) [main-end]
+    [main-start] minmax(0, 100%) [main-end]
     minmax(1rem, 1fr) [full-end];
   background-color: $grey-bg-color;
   > small {
