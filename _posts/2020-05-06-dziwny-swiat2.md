@@ -2,7 +2,7 @@
 layout: post
 title: Dziwny świat
 author: tomek_pers
-date: 2020-05-06T09:35:00.000Z
+date: 2020-05-06T10:35:00.000Z
 intro_paragraph: ''
 categories: misc
 ---
@@ -11,7 +11,7 @@ categories: misc
 
 06052020
 
-1. Jakie decyzje dziś podjąłem
+1. Jakie decyzje dziś podjąłem:
 
 
 
