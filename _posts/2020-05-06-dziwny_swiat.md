@@ -8,9 +8,9 @@ categories: misc
 
 ---
 
-![image-20200506214023978](C:\Users\Tomasz\AppData\Roaming\Typora\typora-user-images\image-20200506214023978.png)
+![00_post_00_image_profit](https://github.com/catpersec/blednyinwestor-website/blob/master/resources/00_post_dziwny_swiat/00_post_00_image_profit.png?raw=true)
 
-Naszła mnie pewna 
+Chociaż to w tym momencie nie jest żadna spekulacja, a bardziej hazard (co widać na powyższym zdjęciu), to naszła mnie pewna myśl. W jakim świecie żyjemy? Kilka właściwych kliknięć potrafi być równowartościowe z czasami kilkumiesięczną pracą w kraju notabene nieźle rozwiniętym...
 
 
 
